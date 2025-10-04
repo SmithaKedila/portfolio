@@ -16,7 +16,7 @@ const data = {
   links: {
     linkedin: "https://www.linkedin.com/in/smithakedila", // TODO: Add real LinkedIn URL
     github: "https://github.com/SmithaKedila", // TODO: Add real GitHub URL if desired
-    //resume: "", // TODO: Add hosted resume link
+    resume: "https://drive.google.com/file/d/1KJIumK5IlS06Ye3rpbfNPMWW550oIh_R/view?usp=sharing", // TODO: Add hosted resume link
   },
   heroTagline:
     "Graduate MS student in Computer Engineering @ SJSU. 4 years of industry experience across AI agents, distributed systems, Kubernetes, SD-WAN, and ML engineering.",
